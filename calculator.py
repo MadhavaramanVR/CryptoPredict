@@ -4,7 +4,7 @@ from navigation.dashboard_yf import get_market, get_historical
 # Crypto/USD Calculator
 def calculator():
     # Crypto/USD Calculator
-    st.title('Cryptocurrency converter calculator')
+    st.title('🪙Cryptocurrency converter calculator')
     col1, col2 = st.columns(2)
 
     tickers2 = ('USD', 'BTC', 'ETH', 'SOL', 'ADA', 'DOT', 'MATIC', 'EGLD', 'DOGE', 'XRP', 'BNB')
