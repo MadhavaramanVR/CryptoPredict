@@ -16,8 +16,6 @@ weekly and monthly forecasting of crypto coins for better understanding of the n
 
 -> For spinner animation we used lottie animation library.
 
--> This is just a demo work as we have developed this webiste as a part of our capstone project.
-
 Happy coding!
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://madhavaramanvr-cryptopredict-dashboard-ggqwys.streamlit.app/)
