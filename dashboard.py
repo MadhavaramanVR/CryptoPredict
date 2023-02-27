@@ -33,8 +33,6 @@ selected = option_menu(
 
 if selected == "Home":
     home.get_home()
-elif selected == "Live pricing":
-    live_pricing.live_price()
 elif selected == "Basic Info":
     basic_info.get_basic_info()
 elif selected == "Prediction":
