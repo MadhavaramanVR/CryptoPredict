@@ -8,7 +8,7 @@ def callus():
 
 
     contact_form = """
-        <form action="https://formsubmit.co/ravipatel7636@gmail.com" method="POST">
+        <form action="https://formsubmit.co/madhavan.vr22@gmail.com" method="POST">
         <input type="hidden" name="_captcha" value="false">
         <input type="text" name="name" placeholder="Your name" required>
         <input type="email" name="email" placeholder="Your email" required>
