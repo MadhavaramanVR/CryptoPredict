@@ -15,7 +15,7 @@ st.set_page_config(
     layout="wide",
     initial_sidebar_state="auto",)
 
-st.markdown("<center><h1 Style=\"overflow: visible; padding-bottom: 50px; padding-top: 0px;\">Crypto-Predict </h1></center>", unsafe_allow_html=True)
+st.markdown("<center><h1 Style=\"overflow: visible; padding-bottom: 50px; padding-top: 0px;\">CryptoPlinth </h1></center>", unsafe_allow_html=True)
 #st.caption("v 1.0.0")
 selected = option_menu(
         menu_title=None,
