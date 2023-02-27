@@ -20,11 +20,11 @@ def aus():
         st.write("")
         st.write("")
         st.write("")
-        st.title("DHAIRYA SHAH")
+        st.title("MADHAVARAMAN V")
         st.caption("Languages : HTML, CSS, JavaScript, C, C++,  Java, Python")
         st.write("")
-        st.subheader("I had completed my Bachelor's in Information Technology from ADIT" +
-                     " and currently pursuing Post-Graduation Certificate in Cloud Computing for Big Data. ")
+        st.subheader("I had completed my Bachelor's in Computer science and business system in Sri krishna college of engineering and technology" +
+                     " and currently working in ZOHO Corporation as Developer ")
 
 
     st.write("---")
