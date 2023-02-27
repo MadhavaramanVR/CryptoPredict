@@ -10,7 +10,7 @@ from streamlit_option_menu import option_menu
 from  PIL import Image
 
 st.set_page_config(
-    page_title="CryptoBase",
+    page_title="Cryptocurrency predictor",
     page_icon="💰",
     layout="wide",
     initial_sidebar_state="auto",)
