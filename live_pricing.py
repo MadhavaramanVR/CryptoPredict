@@ -4,7 +4,6 @@ import datetime
 import time
 from datetime import datetime
 import plotly.graph_objects as go
-from ipywidgets import widgets
 import requests
 from streamlit_lottie import st_lottie_spinner
 from pytz import timezone
