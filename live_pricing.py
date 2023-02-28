@@ -1,5 +1,6 @@
 import streamlit as st
 import cryptocompare
+import ipywidgets
 import datetime
 import time
 from datetime import datetime
