@@ -2,6 +2,7 @@ import streamlit as st
 import cryptocompare
 import datetime
 import time
+import ipywidgets 
 from datetime import datetime
 import plotly.graph_objects as go
 import requests
