@@ -14,7 +14,7 @@ def aus():
     col1, col2, col3 = st.columns([3, 1, 9])
     with col1:
 
-        st.image("Images/DHAIRYA.jpg", use_column_width=True)
+        st.image("Images/MADHAV.jpg", use_column_width=True)
 
     with col3:
         st.write("")
