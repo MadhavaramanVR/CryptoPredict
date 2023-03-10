@@ -1,4 +1,4 @@
-# CryptoBase
+# CryptoPlinth
 
 In the past years we have seen that price of cryptocurrency rapidly grow due to its great return. 
 So, our team explored several cryptocurrencies and we have decided to make a web-app that will display all the necessary things (like Basic info of particular crypto, their live pricing, 7 days graph, etc) along with hourly, 
