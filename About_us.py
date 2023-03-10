@@ -24,7 +24,7 @@ def aus():
         st.caption("Languages : HTML, CSS, JavaScript, C, C++,  Java, Python , PHP, Flutter")
         st.write("")
         st.subheader("I had completed my Bachelor's in Computer science and business system in SKCET" +
-                     " and currently working in ZOHO Corporation as Developer ")
+                     " and currently working in ZOHO Corporation as a Developer ")
 
 
     st.write("---")
