@@ -72,7 +72,7 @@ def aus():
         st.title("MARGRET SHARMILA F")
         st.caption("Languages : HTML, CSS, JavaScript, Java, Python")
         st.write("")
-        st.subheader("BIO")
+        st.subheader("Assistant professor in Sri Krishna College of Engineering and Technology , Coimbatore")
 
 
     with col12:
