@@ -5,7 +5,7 @@ def aus():
     st.title("Abstract")
     st.write("")
     st.write("")
-    st.subheader("In the past years we have seen that price of cryptocurrency rapidly grow due to its great return. "
+    st.subheader("In the past few years we have seen that the price of cryptocurrency rapidly grows due to its great return. "
              "So, our team explored several cryptocurrencies and decided to make a web-app that will display all "
              "the necessary things (like Basic info of particular crypto, their live pricing, 7 days graph, etc) along with hourly, "
             "weekly and monthly forecasting of crypto coins for better understanding of the nature of cryptocurrencies.")
