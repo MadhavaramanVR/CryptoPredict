@@ -76,7 +76,7 @@ def aus():
 
 
     with col12:
-        st.image("Images/ravi.jpg", use_column_width=True)
+        st.image("Images/MARGRET.jpeg", use_column_width=True)
 
     hide_img_fs = '''
                     <style>
