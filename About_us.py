@@ -49,7 +49,7 @@ def aus():
 
     col7, ccl8, col9 = st.columns([3, 1, 9])
     with col7:
-        st.image("Images/mihir.jpg", use_column_width=True)
+        st.image("Images/THARUN.jpg", use_column_width=True)
 
     with col9:
         st.write("")
