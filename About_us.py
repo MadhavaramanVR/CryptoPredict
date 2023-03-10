@@ -43,7 +43,7 @@ def aus():
 
 
     with col6:
-        st.image("Images/japan.jpg", use_column_width=True)
+        st.image("Images/SHYAM.jpg", use_column_width=True)
 
     st.write("---")
 
