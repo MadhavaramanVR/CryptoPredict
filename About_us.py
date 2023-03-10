@@ -21,7 +21,7 @@ def aus():
         st.write("")
         st.write("")
         st.title("MADHAVARAMAN V")
-        st.caption("Languages : HTML, CSS, JavaScript, C, C++,  Java, Python")
+        st.caption("Languages : HTML, CSS, JavaScript, C, C++,  Java, Python , PHP, Flutter")
         st.write("")
         st.subheader("I had completed my Bachelor's in Computer science and business system in SKCET" +
                      " and currently working in ZOHO Corporation as Developer ")
@@ -29,6 +29,54 @@ def aus():
 
     st.write("---")
 
+     col4,col5,col6 = st.columns([9,1,3])
+    with col4:
+       st.write("")
+       st.write("")
+       st.write("")
+       st.title("SHYAM KUMAR S")
+       st.caption("Languages : HTML, CSS, C, C++, Java")
+       st.write("")
+       st.subheader("I had completed my Bachelor's in Computer science and business system in SKCET")
+
+
+
+
+    with col6:
+        st.image("Images/japan.jpg", use_column_width=True)
+
+    st.write("---")
+
+    col7, ccl8, col9 = st.columns([3, 1, 9])
+    with col7:
+        st.image("Images/mihir.jpg", use_column_width=True)
+
+    with col9:
+        st.write("")
+        st.write("")
+        st.write("")
+        st.title("THARUN MURALITHARAN")
+        st.caption("Languages : HTML, CSS, C, C++,  Java")
+        st.write("")
+        st.subheader("I had completed my Bachelor's in Computer science and business system in SKCET" )
+
+
+
+    st.write("---")
+
+    col10, col11,col12 = st.columns([9,1,3])
+    with col10:
+        st.write("")
+        st.write("")
+        st.write("")
+        st.title("MARGRET SHARMILA F")
+        st.caption("Languages : HTML, CSS, JavaScript, Java, Python")
+        st.write("")
+        st.subheader("bio need to add")
+
+
+    with col12:
+        st.image("Images/ravi.jpg", use_column_width=True)
 
     hide_img_fs = '''
                     <style>
@@ -37,4 +85,5 @@ def aus():
                     </style>
                     '''
 
+    
     st.markdown(hide_img_fs, unsafe_allow_html=True)
