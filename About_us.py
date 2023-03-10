@@ -29,7 +29,7 @@ def aus():
 
     st.write("---")
 
-     col4,col5,col6 = st.columns([9,1,3])
+    col4,col5,col6 = st.columns([9,1,3])
     with col4:
        st.write("")
        st.write("")
