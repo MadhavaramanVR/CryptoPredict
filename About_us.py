@@ -56,9 +56,10 @@ def aus():
         st.write("")
         st.write("")
         st.title("THARUN MURALITHARAN")
-        st.caption("Languages : HTML, CSS, C, C++,  Java")
+        st.caption("Languages : HTML, CSS, C, C++,  Python")
         st.write("")
-        st.subheader("I had completed my Bachelor's in Computer science and business system in SKCET" )
+        st.subheader("I had completed my Bachelor's in Computer science and business system in SKCET" +
+                    " A Data Science enthusiast who is solving day to day problems, one data at a time")
 
 
 
